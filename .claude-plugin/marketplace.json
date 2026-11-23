@@ -1,0 +1,14 @@
+{
+  "name": "etutor-plugin-claude",
+  "owner": {
+    "name": "João Fontenele",
+    "url": "https://github.com/JvFontenele"
+  },
+  "plugins": [
+    {
+      "name": "etutor",
+      "source": "./",
+      "description": "Skills do projeto eTutor: lib-etutor, nova-aplicacao, testes, comentarios."
+    }
+  ]
+}

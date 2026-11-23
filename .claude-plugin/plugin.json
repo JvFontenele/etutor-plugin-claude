@@ -1,0 +1,12 @@
+{
+  "name": "etutor",
+  "version": "0.3.0",
+  "description": "Skills do projeto eTutor (Tout Soluções): padrões de implementação do etutor-web e da etutor-lib (lib-etutor, nova-aplicacao, testes, comentarios).",
+  "author": {
+    "name": "João Fontenele",
+    "email": "jvfont80@gmail.com",
+    "url": "https://github.com/JvFontenele"
+  },
+  "homepage": "https://github.com/JvFontenele/etutor-plugin-claude",
+  "license": "MIT"
+}
